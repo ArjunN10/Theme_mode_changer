@@ -1,0 +1,21 @@
+.dark{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+}
+.btn{
+    border: 1px transparent;
+    border-radius: 10px;
+    width: 80px;
+    height: 60px;
+   
+}
+.btn:hover{
+    border: 2px solid black;
+    background-color: lightblue;
+}
+.txt{
+    color: aliceblue;
+}
